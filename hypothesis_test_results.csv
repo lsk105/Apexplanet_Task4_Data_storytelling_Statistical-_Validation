@@ -1,0 +1,2 @@
+test,alpha,male_n,female_n,male_mean,female_mean,mean_difference_male_minus_female,t_statistic,degrees_of_freedom_welch,p_value,ci95_lower,ci95_upper,decision,conclusion
+Welch independent-samples t-test (two-sided),0.05,511,489,141807.3397847358,136883.20862985688,4924.131154878938,0.6826103913380815,997.9820461909583,0.49501147851458344,-9231.584614215133,19079.84692397301,Fail to reject H0,Insufficient evidence of a statistically significant difference at alpha = 0.05.
